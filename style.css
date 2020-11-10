@@ -1,0 +1,13 @@
+body {
+  font-family: 'Merriweather', serif;
+}
+
+/* Overriding the custom bootstrap styles */
+.card-special {
+  background-color: navy;
+  color: white;
+}
+
+.mb-5 {
+  margin-bottom: 10em;
+}
